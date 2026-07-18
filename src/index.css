@@ -1,0 +1,7 @@
+/* Tailwind's base reset, component classes, and utility classes. All actual
+   visual design for this project is applied via inline styles and the
+   TOKENS object in ARGpredict.jsx — Tailwind is used only for layout
+   utilities (flex, grid, spacing, responsive prefixes). */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
